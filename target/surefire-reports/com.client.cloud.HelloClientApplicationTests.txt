@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.client.cloud.HelloClientApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.707 sec - in com.client.cloud.HelloClientApplicationTests
